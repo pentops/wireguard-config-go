@@ -1,0 +1,1 @@
+# Wireguard Config Go
